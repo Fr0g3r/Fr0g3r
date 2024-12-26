@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fr0g3r
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Kubuntu
+- 🌱 I’m currently learning Arch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me F*ck you
 
